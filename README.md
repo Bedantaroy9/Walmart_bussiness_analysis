@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview
 
-![Project Pipeline](https://medium.com/@pasan.eecs/end-to-end-data-analytics-project-from-kaggle-to-mysql-2640fcb57ec0)
+![Project Pipeline](1_MHXDs0-SoMscqgPBOJD-5g.png)
 
 This project delivers an **end-to-end data engineering and analytics solution** designed to extract critical operational insights from Walmart sales records. We leverage **Python** for programmatically downloading datasets, handling data processing, and cleaning, combined with **SQL (MySQL)** for executing advanced analytical queries to address fundamental business challenges. 
 
